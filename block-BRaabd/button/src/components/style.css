@@ -1,0 +1,22 @@
+button{
+    margin-left: 20px;
+    background-color: rgb(123, 197, 123);
+    color: white;
+    font-size: 24px;
+    padding:5px 10px;
+}
+
+img{
+    width: 400px;
+    height: 350px;
+    padding-top: 100px;
+    border-radius: 10px;
+}
+center{
+    border: 2px dashed rgb(123, 197, 123);
+    padding: 50px;
+}
+h1{
+    font-size: 36px;
+    color: rgb(171, 219, 122);
+}
