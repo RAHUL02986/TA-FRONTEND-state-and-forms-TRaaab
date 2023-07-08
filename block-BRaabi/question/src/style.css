@@ -1,0 +1,32 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+li{
+    list-style-type: none;
+    width: 50%;
+    margin: 10px auto;
+    background-color: rgb(163, 160, 109);
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.active-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: mediumturquoise;
+}
+
+h2,span{
+    padding:5px 20px;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+h3{
+    padding: 10px;
+    font-size: 16px;
+    color: rgb(80, 70, 70);
+
+}
